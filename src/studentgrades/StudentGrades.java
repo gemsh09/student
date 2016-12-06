@@ -17,7 +17,7 @@ public class StudentGrades {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner sc = new Scanner(System.in);
-        System.out.println("Im uber gay");
+        System.out.println("Im double uber gay");
     }
     
 }
